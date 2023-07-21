@@ -1,1 +1,0 @@
-mkdir para crear directorio
